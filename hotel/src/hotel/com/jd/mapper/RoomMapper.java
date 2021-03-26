@@ -4,10 +4,7 @@ import org.apache.ibatis.annotations.*;
 
 import java.util.ArrayList;
 
-/**
- * RoomMapper接口
- * @author zhu
- */
+
 public interface RoomMapper {
     /**
      * @info String

@@ -7,9 +7,6 @@ public class User {
     private int user_liveday;
     private int room_id;
 
-    public User() {
-    }
-
     public int getUser_id() {
         return user_id;
     }
